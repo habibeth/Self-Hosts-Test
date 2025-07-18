@@ -19,4 +19,4 @@ jobs:
       - name: Print the text file
         run: |
           echo "Printing the contents of the text file:"
-          cat habib.txt
+          cat hello.txt
